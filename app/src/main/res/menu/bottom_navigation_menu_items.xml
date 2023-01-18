@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeScreenFragment"
+        android:icon="@drawable/todos_icon"
+        android:title="@string/todos" />
+    <item
+        android:id="@+id/categoryScreenFragment"
+        android:icon="@drawable/category_icon"
+        android:title="@string/category" />
+    <item
+        android:id="@+id/addTasksScreenFragment"
+        android:icon="@drawable/add_icon_blue"
+        android:title="" />
+    <item
+        android:id="@+id/barGraphScreenFragment"
+        android:icon="@drawable/bar_graph_icon"
+        android:title="@string/graph" />
+    <item
+        android:id="@+id/timerScreenFragment"
+        android:icon="@drawable/timer_icon"
+        android:title="@string/timer" />
+</menu>
